@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/to_do_app.git
+git clone https://github.com/Denis-7242/to_do_app.git
 cd to_do_app
 ```
 
