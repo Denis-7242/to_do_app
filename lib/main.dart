@@ -5,7 +5,7 @@ import 'package:to_do_app/pages/to_do_page.dart';
 void main() async {
   //initialize hive
   await Hive.initFlutter();
-  
+
   await Hive.openBox('mybox');
   runApp(const MyApp());
 }
@@ -18,9 +18,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'ToDo App',
-    
-      home:ToDoPage(),
+
+      home: ToDoPage(),
     );
   }
 }
-
