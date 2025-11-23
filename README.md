@@ -42,7 +42,7 @@ This project demonstrates best practices in Flutter development, including prope
 
 ## 🏗️ Architecture
 
-<b> coming soon </b>
+<b> coming soon after completion of the project</b>
 
 ## 🛠️ Tech Stack
 
