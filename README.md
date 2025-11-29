@@ -127,6 +127,6 @@ Passionate mobile developer dedicated to building modern, efficient, and user-fr
 
 **If you find this project useful, please consider giving it a ⭐ on GitHub!**
 
-Made with ❤️ by Denis Murithi
+Made with ❤️ by Denis
 
 </div>
