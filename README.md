@@ -126,7 +126,6 @@ Passionate mobile developer dedicated to building modern, efficient, and user-fr
 <div align="center">
 
 **If you find this project useful, please consider giving it a ⭐ on GitHub!**
-
 Made with ❤️ by Denis using flutter
 
 </div>
