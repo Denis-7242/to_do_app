@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-To-Do App is a cross-platform mobile application designed to help users efficiently manage their daily tasks. Built with Flutter and Dart, it provides a seamless experience across Android and iOS devices with a clean, responsive interface and persistent local storage.
+
 
 This project demonstrates best practices in Flutter development, including proper state management, local data persistence, and a well-structured codebase that's both maintainable and scalable.
 
