@@ -109,7 +109,6 @@ flutter devices
 - [ ] Dark mode support
 - [ ] Cloud synchronization
 - [ ] Multi-language support
-- [ ] Task statistics and insights
 
 
 ## 👨‍💻 Author
